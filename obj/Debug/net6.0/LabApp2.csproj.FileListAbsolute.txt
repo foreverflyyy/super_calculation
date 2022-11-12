@@ -1,0 +1,15 @@
+D:\dream\C#\tests\LabApp2\bin\Debug\net6.0\LabApp2.exe
+D:\dream\C#\tests\LabApp2\bin\Debug\net6.0\LabApp2.deps.json
+D:\dream\C#\tests\LabApp2\bin\Debug\net6.0\LabApp2.runtimeconfig.json
+D:\dream\C#\tests\LabApp2\bin\Debug\net6.0\LabApp2.dll
+D:\dream\C#\tests\LabApp2\bin\Debug\net6.0\LabApp2.pdb
+D:\dream\C#\tests\LabApp2\obj\Debug\net6.0\LabApp2.csproj.AssemblyReference.cache
+D:\dream\C#\tests\LabApp2\obj\Debug\net6.0\LabApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\dream\C#\tests\LabApp2\obj\Debug\net6.0\LabApp2.AssemblyInfoInputs.cache
+D:\dream\C#\tests\LabApp2\obj\Debug\net6.0\LabApp2.AssemblyInfo.cs
+D:\dream\C#\tests\LabApp2\obj\Debug\net6.0\LabApp2.csproj.CoreCompileInputs.cache
+D:\dream\C#\tests\LabApp2\obj\Debug\net6.0\LabApp2.dll
+D:\dream\C#\tests\LabApp2\obj\Debug\net6.0\refint\LabApp2.dll
+D:\dream\C#\tests\LabApp2\obj\Debug\net6.0\LabApp2.pdb
+D:\dream\C#\tests\LabApp2\obj\Debug\net6.0\LabApp2.genruntimeconfig.cache
+D:\dream\C#\tests\LabApp2\obj\Debug\net6.0\ref\LabApp2.dll
